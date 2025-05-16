@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>A MERN stack web app, building real-world features from scratch.<br><br>🤝 I’m looking to collaborate on:<br>Open-source full-stack projects, portfolio websites, and real-world problem-solving apps.<br><br>🌱 I’m currently learning:<br>MERN stack, DSA with C++, and Next.js for building production-ready apps.<br><br>💬 Ask me about:<br>JavaScript, React, MongoDB, Node.js, or how to start with full-stack projects from scratch.<br><br>⚡ Fun fact:<br>I love turning complex problems into clean code while vibing to music in my headphones 🎧
+🔭 I’m currently working on:<br>A MERN stack web app, building real-world features from scratch.<br>🤝 I’m looking to collaborate on:<br>Open-source full-stack projects, portfolio websites, and real-world problem-solving apps.<br>🌱 I’m currently learning:<br>MERN stack, DSA with C++, and Next.js for building production-ready apps.<br>💬 Ask me about:<br>JavaScript, React, MongoDB, Node.js, or how to start with full-stack projects from scratch.<br>⚡ Fun fact:<br>I love turning complex problems into clean code while vibing to music in my headphones 🎧
 
 
 ## 🌐 Socials:
